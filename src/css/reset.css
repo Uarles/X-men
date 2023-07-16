@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+    /* margin é o espaçamento esterno e padding espaçamento interno */
+
+     /* list-style: none, tira as bolinhas do link, ou seja da ul; */
+ul{
+    list-style: none;
+    
+}
